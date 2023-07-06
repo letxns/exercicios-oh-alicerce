@@ -1,0 +1,20 @@
+#container{
+    margin: 100px;
+    margin-left: 250px;
+}
+
+.titulo-principal {
+    color: red;
+    font-size: 200px;
+}
+
+.titulo-secundario {
+    color: blue;
+    font-size: 100px;
+}
+
+.titulo-importante {
+    color: red;
+    font-size: 50px;
+    background-color: yellow;
+}

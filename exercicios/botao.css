@@ -1,0 +1,12 @@
+.meu-botao {
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.meu-botao:hover {
+    background-color: #2980b9;
+}

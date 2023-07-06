@@ -1,0 +1,17 @@
+#minha-secao{
+    background-color: green;
+}
+
+.meu-titulo{
+    color: red;
+    font-size: 50px;
+}
+
+.minha-imagem {
+    width: 500px; 
+    height: 400px;
+    background-image: url("https://img.freepik.com/fotos-gratis/parede-de-concreto_53876-88973.jpg"); 
+    background-color: black;
+    border: 1px solid black;
+    margin-top: 100px;
+}

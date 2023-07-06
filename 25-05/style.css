@@ -1,0 +1,16 @@
+#meuElementoNone {
+    display: none;
+}
+
+#meuElementoBlock {
+    display: block;
+}
+
+#meuElementoInline {
+    display: inline;
+}  
+
+#meuElementoInline-block {
+    display: inline-block;
+}
+

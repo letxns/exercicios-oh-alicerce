@@ -1,0 +1,26 @@
+.meu-botao{
+    background-color: #79C6E6;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    width: 50vw;
+    cursor: pointer;
+    color: #8D8FA0;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.meu-botao:hover{
+    background-color: #00705E;
+    color: #061FE0;
+    padding: 25px;
+    width: 80px;
+}
+
+#color-picker{
+    margin: 300px;
+}

@@ -1,0 +1,25 @@
+.menu-navegacao {
+    display: flex;
+    justify-content: center;
+    background-color: #333;
+}
+
+.menu-navegacao ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.menu-navegacao li {
+    margin: 0 10px;
+}
+
+.menu-navegacao a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.menu-navegacao a:hover {
+    background-color: #555;
+} 

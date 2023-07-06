@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 16px;
+    color: #f68791;
+    line-height: 1.5;
+    margin-bottom: 10px;
+}
+
+.destaque {
+    font-size: 18px;
+    color: #ff0000;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+.espaçamento-linha {
+    line-height: 2;
+}

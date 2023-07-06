@@ -1,0 +1,8 @@
+.titulo{
+    color: yellow;
+    background-color: red;
+}
+
+#container-lista {
+    border: 10px solid green;
+}
